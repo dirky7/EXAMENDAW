@@ -3,3 +3,6 @@ Despligue de aplicaciones web:
 
 Interfaces web:
 	Sobresaliente
+
+HLC:
+	Suspenso
